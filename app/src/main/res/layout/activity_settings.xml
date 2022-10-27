@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <TextView
+        android:text="App settings"
+        android:textSize="50sp"
+        android:textColor="@color/basic_color"
+        android:textAlignment="center"
+        android:scaleX="0.6"
+        android:scaleY="0.6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawablePadding="40dp"/>
+
+    <TableLayout
+        android:id="@+id/table_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginHorizontal="40dp">
+
+        <TableRow
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:layout_marginVertical="10dp">
+
+            <TextView
+                android:text="Select city to display weather"
+                android:textColor="@color/basic_color"
+                android:textSize="20dp"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:layout_weight="1"/>
+        </TableRow>
+
+        <TableRow
+            android:layout_height="match_parent"
+            android:layout_width="wrap_content">
+
+            <TextView
+                android:id="@+id/cityName"
+                android:text="City"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:textColor="@color/basic_color"
+                android:layout_weight="1"
+                android:layout_gravity="center"
+                android:textSize="18sp"/>
+
+            <EditText
+                android:id="@+id/editText_cityName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/basic_color"
+                android:textColor="@color/basic_color"
+                android:ems="10"/>
+
+        </TableRow>
+
+        <TableRow
+            android:layout_height="match_parent"
+            android:layout_width="wrap_content">
+
+            <TextView
+                android:text="Latitude"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:textColor="@color/basic_color"
+                android:layout_weight="1"
+                android:layout_gravity="center"
+                android:textSize="18sp"/>
+
+            <EditText
+                android:id="@+id/latitude"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/basic_color"
+                android:enabled="false"
+                android:ems="10"/>
+
+        </TableRow>
+
+        <TableRow
+            android:layout_height="match_parent"
+            android:layout_width="wrap_content">
+
+            <TextView
+                android:text="Longitude"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:textColor="@color/basic_color"
+                android:layout_weight="1"
+                android:layout_gravity="center"
+                android:textSize="18sp"/>
+
+            <EditText
+                android:id="@+id/longitude"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/basic_color"
+                android:enabled="false"
+                android:ems="10"/>
+
+        </TableRow>
+
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="15dp"/>
+
+        <TableRow
+            android:layout_height="match_parent"
+            android:layout_width="wrap_content"
+            android:layout_marginVertical="10dp">
+
+            <Button
+                android:id="@+id/addCityButton"
+                android:text="add city"
+                android:layout_width="200dp"
+                android:background="@drawable/card_background"
+                android:textColor="@color/white"
+                android:textSize="14sp"
+                android:layout_height="40dp" />
+
+        </TableRow>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="@color/basic_color"/>
+
+        <TableRow
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:layout_marginVertical="10dp">
+
+            <TextView
+                android:text="List of favorite cities"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:textColor="@color/basic_color"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:layout_gravity="center"
+                android:layout_weight="1"/>
+
+            <Spinner
+                android:id="@+id/spinnerFavouritesCities"
+                android:layout_width="0dp"
+                android:layout_height="30dp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginVertical="10dp">
+
+            <Button
+                android:id="@+id/delCityButton"
+                android:text="delete city"
+                android:layout_width="200dp"
+                android:background="@drawable/card_background"
+                android:textColor="@color/white"
+                android:textSize="14sp"
+                android:layout_height="40dp" />
+
+        </TableRow>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="@color/basic_color"/>
+
+        <TableRow
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:layout_marginVertical="20dp">
+
+            <TextView
+                android:text="Type of temperature"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:textColor="@color/basic_color"
+                android:textSize="16sp"
+                android:layout_gravity="center"
+                android:layout_weight="1"/>
+
+            <ToggleButton
+                android:id="@+id/setTemperatureType"
+                android:layout_width="0dp"
+                android:layout_height="35dp"
+                android:layout_weight="1"
+                android:textColor="@color/white"
+                android:background="@drawable/card_background"
+                android:textSize="12sp"
+                android:textOff="Celsius"
+                android:textOn="Fahrenheit"
+                android:layout_gravity="center"
+                android:textAlignment="center" />
+        </TableRow>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="@color/basic_color"/>
+
+        <TableRow
+            android:layout_height="match_parent"
+            android:layout_width="wrap_content"
+            android:layout_marginVertical="20dp">
+
+            <Button
+                android:id="@+id/saveDataButton"
+                android:text="Save"
+                android:layout_width="0dp"
+                android:background="@drawable/card_background"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"/>
+        </TableRow>
+    </TableLayout>
+
+</LinearLayout>

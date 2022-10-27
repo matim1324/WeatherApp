@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Dokumenty/sem_VI_remake/Technologie_Mobilne/ZadaniaLabyMobilki/WeatherApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.263" />
+        <entry key="..\:/Dokumenty/sem_VI_remake/Technologie_Mobilne/ZadaniaLabyMobilki/WeatherApp/app/src/main/res/drawable/card_background.xml" value="0.3395" />
+        <entry key="..\:/Dokumenty/sem_VI_remake/Technologie_Mobilne/ZadaniaLabyMobilki/WeatherApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.263" />
+        <entry key="..\:/Dokumenty/sem_VI_remake/Technologie_Mobilne/ZadaniaLabyMobilki/WeatherApp/app/src/main/res/layout-land/activity_main.xml" value="0.5151041666666667" />
+        <entry key="..\:/Dokumenty/sem_VI_remake/Technologie_Mobilne/ZadaniaLabyMobilki/WeatherApp/app/src/main/res/layout-land/activity_settings.xml" value="0.5151041666666667" />
+        <entry key="..\:/Dokumenty/sem_VI_remake/Technologie_Mobilne/ZadaniaLabyMobilki/WeatherApp/app/src/main/res/layout-land/fragment_details.xml" value="0.5151041666666667" />
+        <entry key="..\:/Dokumenty/sem_VI_remake/Technologie_Mobilne/ZadaniaLabyMobilki/WeatherApp/app/src/main/res/layout-land/fragment_forecast.xml" value="0.5151041666666667" />
+        <entry key="..\:/Dokumenty/sem_VI_remake/Technologie_Mobilne/ZadaniaLabyMobilki/WeatherApp/app/src/main/res/layout-land/fragment_weather.xml" value="0.5151041666666667" />
+        <entry key="..\:/Dokumenty/sem_VI_remake/Technologie_Mobilne/ZadaniaLabyMobilki/WeatherApp/app/src/main/res/layout/activity_main.xml" value="0.27247191011235955" />
+        <entry key="..\:/Dokumenty/sem_VI_remake/Technologie_Mobilne/ZadaniaLabyMobilki/WeatherApp/app/src/main/res/layout/activity_settings.xml" value="0.29259259259259257" />
+        <entry key="..\:/Dokumenty/sem_VI_remake/Technologie_Mobilne/ZadaniaLabyMobilki/WeatherApp/app/src/main/res/layout/forecast_item.xml" value="0.371875" />
+        <entry key="..\:/Dokumenty/sem_VI_remake/Technologie_Mobilne/ZadaniaLabyMobilki/WeatherApp/app/src/main/res/layout/fragment_details.xml" value="0.36615384615384616" />
+        <entry key="..\:/Dokumenty/sem_VI_remake/Technologie_Mobilne/ZadaniaLabyMobilki/WeatherApp/app/src/main/res/layout/fragment_forecast.xml" value="0.32320441988950277" />
+        <entry key="..\:/Dokumenty/sem_VI_remake/Technologie_Mobilne/ZadaniaLabyMobilki/WeatherApp/app/src/main/res/layout/fragment_moon.xml" value="0.371875" />
+        <entry key="..\:/Dokumenty/sem_VI_remake/Technologie_Mobilne/ZadaniaLabyMobilki/WeatherApp/app/src/main/res/layout/fragment_settings.xml" value="0.371875" />
+        <entry key="..\:/Dokumenty/sem_VI_remake/Technologie_Mobilne/ZadaniaLabyMobilki/WeatherApp/app/src/main/res/layout/fragment_sun.xml" value="0.371875" />
+        <entry key="..\:/Dokumenty/sem_VI_remake/Technologie_Mobilne/ZadaniaLabyMobilki/WeatherApp/app/src/main/res/layout/fragment_weather.xml" value="0.33" />
+        <entry key="..\:/Dokumenty/sem_VI_remake/Technologie_Mobilne/ZadaniaLabyMobilki/WeatherApp/app/src/main/res/menu/dropdown_item.xml" value="0.36615384615384616" />
+        <entry key="..\:/Dokumenty/sem_VI_remake/Technologie_Mobilne/ZadaniaLabyMobilki/WeatherApp/app/src/main/res/menu/menu.xml" value="0.371875" />
+        <entry key="..\:/Dokumenty/sem_VI_remake/Technologie_Mobilne/ZadaniaLabyMobilki/WeatherApp/app/src/main/res/menu/menu_item.xml" value="0.371875" />
+        <entry key="..\:/Dokumenty/sem_VI_remake/Technologie_Mobilne/ZadaniaLabyMobilki/WeatherApp/app/src/main/res/menu/my_dropdown_item.xml" value="0.36615384615384616" />
+        <entry key="..\:/Dokumenty/sem_VI_remake/Technologie_Mobilne/ZadaniaLabyMobilki/WeatherApp/app/src/main/res/menu/selected_item.xml" value="0.36615384615384616" />
+        <entry key="..\:/Dokumenty/sem_VI_remake/Technologie_Mobilne/ZadaniaLabyMobilki/WeatherApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.263" />
+        <entry key="..\:/Users/Mati/Desktop/WeatherApp/app/src/main/res/layout-land/activity_main.xml" value="0.13854166666666667" />
+        <entry key="..\:/Users/Mati/Desktop/WeatherApp/app/src/main/res/layout-land/fragment_details.xml" value="0.4625" />
+        <entry key="..\:/Users/Mati/Desktop/WeatherApp/app/src/main/res/layout-land/fragment_forecast.xml" value="0.13854166666666667" />
+        <entry key="..\:/Users/Mati/Desktop/WeatherApp/app/src/main/res/layout-land/fragment_weather.xml" value="0.4625" />
+        <entry key="..\:/Users/Mati/Desktop/WeatherApp/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Mati/Desktop/WeatherApp/app/src/main/res/layout-sw600dp/fragment_details.xml" value="0.1361111111111111" />
+        <entry key="..\:/Users/Mati/Desktop/WeatherApp/app/src/main/res/layout-sw600dp/fragment_forecast.xml" value="0.1361111111111111" />
+        <entry key="..\:/Users/Mati/Desktop/WeatherApp/app/src/main/res/layout-sw600dp/fragment_weather.xml" value="0.27890625" />
+        <entry key="..\:/Users/Mati/Desktop/WeatherApp/app/src/main/res/layout/activity_main.xml" value="0.371875" />
+        <entry key="..\:/Users/Mati/Desktop/WeatherApp/app/src/main/res/layout/fragment_forecast.xml" value="0.371875" />
+        <entry key="..\:/Users/Mati/Desktop/WeatherApp/app/src/main/res/layout/fragment_weather.xml" value="0.371875" />
+        <entry key="..\:/Users/Mati/Desktop/finally/WeatherApp/app/src/main/res/layout-land/activity_main.xml" value="0.3235294117647059" />
+        <entry key="..\:/Users/Mati/Desktop/finally/WeatherApp/app/src/main/res/layout/activity_main.xml" value="0.371875" />
+        <entry key="..\:/Users/Mati/Desktop/finally/WeatherApp/app/src/main/res/layout/fragment_details.xml" value="0.371875" />
+        <entry key="..\:/Users/Mati/Desktop/finally/WeatherApp/app/src/main/res/layout/fragment_forecast.xml" value="0.371875" />
+        <entry key="..\:/Users/Mati/Desktop/finally/WeatherApp/app/src/main/res/layout/fragment_weather.xml" value="0.371875" />
+        <entry key="..\:/Users/Mati/Desktop/mobilne/Przebudowa/app/src/main/res/layout-land/activity_main.xml" value="0.31197916666666664" />
+        <entry key="..\:/Users/Mati/Desktop/mobilne/Przebudowa/app/src/main/res/layout-land/activity_settings.xml" value="0.2" />
+        <entry key="..\:/Users/Mati/Desktop/mobilne/Przebudowa/app/src/main/res/layout-land/fragment_details.xml" value="0.2" />
+        <entry key="..\:/Users/Mati/Desktop/mobilne/Przebudowa/app/src/main/res/layout-land/fragment_forecast.xml" value="0.16804407713498623" />
+        <entry key="..\:/Users/Mati/Desktop/mobilne/Przebudowa/app/src/main/res/layout-land/fragment_weather.xml" value="0.25" />
+        <entry key="..\:/Users/Mati/Desktop/mobilne/Przebudowa/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.27890625" />
+        <entry key="..\:/Users/Mati/Desktop/mobilne/Przebudowa/app/src/main/res/layout-sw600dp/activity_settings.xml" value="0.27890625" />
+        <entry key="..\:/Users/Mati/Desktop/mobilne/Przebudowa/app/src/main/res/layout-sw600dp/fragment_details.xml" value="0.27890625" />
+        <entry key="..\:/Users/Mati/Desktop/mobilne/Przebudowa/app/src/main/res/layout-sw600dp/fragment_forecast.xml" value="0.27890625" />
+        <entry key="..\:/Users/Mati/Desktop/mobilne/Przebudowa/app/src/main/res/layout-sw600dp/fragment_weather.xml" value="0.27890625" />
+        <entry key="..\:/Users/Mati/Desktop/mobilne/Przebudowa/app/src/main/res/layout/activity_main.xml" value="0.3578125" />
+        <entry key="..\:/Users/Mati/Desktop/mobilne/Przebudowa/app/src/main/res/layout/activity_settings.xml" value="0.371875" />
+        <entry key="..\:/Users/Mati/Desktop/mobilne/Przebudowa/app/src/main/res/layout/fragment_details.xml" value="0.3578125" />
+        <entry key="..\:/Users/Mati/Desktop/mobilne/Przebudowa/app/src/main/res/layout/fragment_forecast.xml" value="0.3578125" />
+        <entry key="..\:/Users/Mati/Desktop/mobilne/Przebudowa/app/src/main/res/layout/fragment_weather.xml" value="0.371875" />
+        <entry key="..\:/Users/Mati/Desktop/mobilne/Przebudowa/app/src/main/res/layout/tablet_view.xml" value="0.26481481481481484" />
+        <entry key="..\:/Users/Mati/Desktop/mobilne/Przebudowa/app/src/main/res/menu/menu_item.xml" value="0.3212962962962963" />
+        <entry key="..\:/Users/Mati/Desktop/skonczone_do_przerzucenia_na_lapka/WeatherApp/app/src/main/res/layout/activity_main.xml" value="0.23981481481481481" />
+        <entry key="..\:/Users/Mati/Desktop/skonczone_do_przerzucenia_na_lapka/WeatherApp/app/src/main/res/menu/dropdown_item.xml" value="0.23981481481481481" />
+        <entry key="..\:/Users/Mati/Desktop/skonczone_do_przerzucenia_na_lapka/WeatherApp/app/src/main/res/menu/menu_item.xml" value="0.23981481481481481" />
+        <entry key="..\:/Users/Mati/Desktop/skonczone_do_przerzucenia_na_lapka/WeatherApp/app/src/main/res/menu/selected_item.xml" value="0.23981481481481481" />
+        <entry key="..\:/Users/matim/OneDrive/Pulpit/finally/WeatherApp/app/src/main/res/layout/fragment_forecast.xml" value="0.23007246376811594" />
+        <entry key="..\:/Users/matim/OneDrive/Pulpit/finally/WeatherApp/app/src/main/res/layout/fragment_weather.xml" value="0.259375" />
+        <entry key="..\:/Users/matim/OneDrive/Pulpit/mobilki_ended/WeatherApp/app/src/main/res/layout/fragment_weather.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
